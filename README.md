@@ -103,10 +103,4 @@ Conéctate (SSMS, Azure Data Studio o VS Code: servidor `localhost`, usuario `sa
 
 ---
 
-## 🛡️ Licencia
 
-Este proyecto está bajo la [Licencia MIT](LICENSE). Puedes usarlo, modificarlo y compartirlo libremente, dando el crédito correspondiente.
-
-## 🌟 Sobre mí
-
-¡Hola! Soy estudiante de Minería de Datos (séptimo semestre). Este proyecto es parte de mi práctica construyendo un data warehouse en SQL desde cero.
